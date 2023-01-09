@@ -39,7 +39,7 @@ I am a Junior Web Developer and a Flutter Novice
 </div>
 </p>
                     
-### Socials
+### Social Media:
                   
 <p align="left">
     <a href="https://www.instagram.com/nulldevelopr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>

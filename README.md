@@ -58,7 +58,6 @@ I am a Junior Web Developer and a Flutter Novice!
 </p>
                     
 ### Social Media:
-                  
 <p align="left">
     <a href="https://www.instagram.com/I_am_Programming_the_World" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
 <a href="https://github.com/g0d0fl1fe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a>
@@ -69,10 +68,7 @@ I am a Junior Web Developer and a Flutter Novice!
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=g0d0fl1fe&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=g0d0fl1fe&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=g0d0fl1fe&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-### Badges
-<b>My GitHub Stats</b>
-<a href="https://github.com/badrnezhad" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrnezhad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=g0d0fl1fe&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=g0d0fl1fe&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 ### Support Me

@@ -1,16 +1,15 @@
 Hi, I'm Zaniar Karimi
 ===============================
 
-I am a Junior Web Developer and a Flutter Novice
+I am a Junior Web Developer and a Flutter Novice!
 -----------------------------
+*   🚀  I'm a B.Sc Software Engineering student currently interning at [io-team](https://io-team.ir).
+*   🖥️  View my full portfolio at [websitegeeks.ir](https://cv.websitegeeks.ir).
+*   🤝  You can reach out to me for any project collaborations via my social media accounts.
 
-*   🖥️  See my portfolio at [websitegeeks.ir](https://cv.websitegeeks.ir)
-*   🚀  I'm currently interning at [io-team](https://io-team.ir)
-*   🤝  I'm open to collaboration on interesting projects as a web and android developer
-
-<a href="https://www.twitter.com/badrnezhad" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img
+                /></a><a href="https://www.github.com/g0d0fl1fe" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills

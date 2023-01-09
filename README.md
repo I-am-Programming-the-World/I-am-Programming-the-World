@@ -3,9 +3,10 @@ Hi, I'm Zaniar Karimi
 
 I am a Junior Web Developer and a Flutter Novice!
 -----------------------------
-*   🚀  I'm a B.Sc Software Engineering student currently interning at [io-team](https://io-team.ir).
+*   🌍  I'm based in Kurdistan, Iran.
 *   🖥️  View my full portfolio at [websitegeeks.ir](https://cv.websitegeeks.ir).
 *   🤝  You can reach out to me for any project collaborations via my social media accounts.
+*   🚀  I'm a B.Sc Software Engineering student currently interning at [io-team](https://io-team.ir).
 
 <a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -45,7 +46,7 @@ I am a Junior Web Developer and a Flutter Novice!
 <a href="https://github.com/g0d0fl1fe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a>
   <a href="https://websitegeeks.ir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="40" /></a>
   <a href="https://www.linkedin.com/in/zaniarkarimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
-  <a href="https://www.t.me/I_am_Programming_the_World" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="40" height="40" /></a></p>
+  <a href="https://www.telegram.me/I_am_Programming_the_World" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="40" height="40" /></a></p>
 
 ### Badges
 <b>My GitHub Stats</b>

@@ -1,5 +1,5 @@
-Hi, this is Zaniar Karimi [![](https://visitcount.itsvg.in/api?id=g0d0fl1fe&icon=5&color=12)](https://visitcount.itsvg.in) <a href="https://www.github.com/I-am-Programming-the-World" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/I-am-Programming-the-World?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+Hi, this is Zaniar Karimi <a href="https://www.github.com/I-am-Programming-the-World" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/I-am-Programming-the-World?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> [![](https://visitcount.itsvg.in/api?id=g0d0fl1fe&icon=5&color=12)](https://visitcount.itsvg.in)
 ===============================
 
 I am a Junior Web Developer and Software Engineer!

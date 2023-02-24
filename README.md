@@ -8,8 +8,8 @@ I am a Junior Web Developer and Software Engineer!
 *   🚀  Current B.Sc student in Software Engineering interning at [io-team](https://io-team.ir).
 *   🤝  You can reach out to me for any project collaborations/desifn requests via my social media accounts.
 
-<a href="https://www.instagram.com/z.k_23" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/instagram/follow/z.k_23?logo=instagram&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.t.me/I_am_Programming_the_World" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/telegram/follow/I_am_Programming_the_World?logo=telegram&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/I-am-Programming-the-World" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/I-am-Programming-the-World?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   

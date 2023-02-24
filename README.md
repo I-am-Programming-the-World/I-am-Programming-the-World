@@ -8,10 +8,10 @@ I am a Junior Web Developer and Software Engineer!
 *   🚀  Current B.Sc student in Software Engineering interning at [io-team](https://io-team.ir).
 *   🤝  You can reach out to me for any project collaborations/desifn requests via my social media accounts.
 
-<a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/l1feh@cker" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/l1feh@cker?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/g0d0fl1fe" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  src="https://img.shields.io/github/followers/l1feh@cker?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
 <p align="left">

@@ -9,7 +9,7 @@ I am a Junior Web Developer and Software Engineer!
 *   🤝  You can reach out to me for any project collaborations/desifn requests via my social media accounts.
 
 <a href="https://www.instagram.com/z.k_23" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/instagram/follow/z.k_23?logo=Instagram&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                  src="https://img.shields.io/instagram/follow/z.k_23?logo=instagram&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/I-am-Programming-the-World" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/I-am-Programming-the-World?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   

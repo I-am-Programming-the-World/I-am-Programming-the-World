@@ -1,7 +1,7 @@
 Hi, I'm Zaniar Karimi
 ===============================
 
-I am a Junior Web Developer and a Flutter Novice!
+I am a Junior Web Developer and Software Engineer!
 -----------------------------
 *   🌍  I'm based in Kurdistan, Iran.
 *   🖥️  View my full portfolio at [websitegeeks.ir](https://cv.websitegeeks.ir).
@@ -69,6 +69,8 @@ I am a Junior Web Developer and a Flutter Novice!
 ![](https://github-readme-stats.vercel.app/api?username=g0d0fl1fe&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=g0d0fl1fe&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=g0d0fl1fe&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+Profile views:
+[![](https://visitcount.itsvg.in/api?id=g0d0fl1fe&icon=0&color=4)](https://visitcount.itsvg.in)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=g0d0fl1fe&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 ### Support Me

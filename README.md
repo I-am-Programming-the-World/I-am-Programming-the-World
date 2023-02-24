@@ -1,4 +1,5 @@
-Hi, this is Zaniar Karimi [![](https://visitcount.itsvg.in/api?id=g0d0fl1fe&icon=5&color=12)](https://visitcount.itsvg.in)
+Hi, this is Zaniar Karimi [![](https://visitcount.itsvg.in/api?id=g0d0fl1fe&icon=5&color=12)](https://visitcount.itsvg.in) <a href="https://www.github.com/I-am-Programming-the-World" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/I-am-Programming-the-World?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ===============================
 
 I am a Junior Web Developer and Software Engineer!
@@ -7,10 +8,7 @@ I am a Junior Web Developer and Software Engineer!
 *   🖥️  View my full portfolio at [websitegeeks.ir](https://cv.websitegeeks.ir).
 *   🚀  Current B.Sc student in Software Engineering interning at [io-team](https://io-team.ir).
 *   🤝  You can reach out to me for any project collaborations/desifn requests via my social media accounts.
-
-<a href="https://www.github.com/I-am-Programming-the-World" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/I-am-Programming-the-World?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-                  
+-----------------------------
 ### Skills
 <p align="left">
     <div>

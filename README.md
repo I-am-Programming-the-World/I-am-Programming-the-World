@@ -64,7 +64,10 @@ I am a Junior Web Developer and Software Engineer!
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=I-am-Programming-the-World&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=I-am-Programming-the-World&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Programming-the-World&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<center>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Programming-the-World&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</center>
+<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=I-am-Programming-the-World&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 ### Support Me

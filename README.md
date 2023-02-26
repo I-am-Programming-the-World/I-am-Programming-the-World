@@ -7,7 +7,7 @@ I am a Junior Web Developer and Software Engineer!
 *   🌍  I'm based in Kurdistan, Iran.
 *   🖥️  View my full portfolio at [websitegeeks.ir](https://cv.websitegeeks.ir).
 *   🚀  Current B.Sc student in Software Engineering interning at [io-team](https://io-team.ir).
-*   🤝  You can reach out to me for any project collaborations/desifn requests via my social media accounts.
+*   🤝  You can reach out to me for any project collaborations/design requests via my social media accounts.
 -----------------------------
 ### Skills
 <p align="left">

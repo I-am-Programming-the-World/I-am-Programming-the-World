@@ -62,7 +62,7 @@ I am a Junior Web Developer and Software Engineer!
   <a href="https://www.t.me/I_am_Programming_the_World" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="40" height="40" /></a></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=I-am-Programming-the-World&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=I-am-Programming-the-World&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=I-am-Programming-the-World&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Programming-the-World&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ## 🏆 GitHub Trophies

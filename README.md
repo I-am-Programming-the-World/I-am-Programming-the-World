@@ -5,7 +5,7 @@ Hey there, this is Zaniar Karimi <a href="https://www.github.com/I-am-Programmin
 I am a Junior Web Developer and Software Engineer!
 -----------------------------
 *   🌍  I'm based in Kurdistan, Iran.
-*   🖥️  You can view my full portfolio at [flyingtothe.top](https://Flyingtothe.top).
+*   🖥️  You can view my full portfolio at [Flyingtothe.top](https://cv.flyingtothe.top).
 *   🚀  Current B.Sc student in Software Engineering interning at [io-team](https://io-team.ir).
 *   🤝  You can reach out to me for any project collaborations/design requests via my social media accounts.
 -----------------------------
@@ -56,11 +56,11 @@ I am a Junior Web Developer and Software Engineer!
 </div>
 </p>
                     
-### Social Media:
+### Contact me through:
 <p align="left">
     <a href="https://www.instagram.com/I_am_Programming_the_World" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
 <a href="https://github.com/I-am-Programming-the-World" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a>
-  <a href="https://websitegeeks.ir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="40" /></a>
+  <a href="https://cv.flyingtothe.top" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="40" /></a>
   <a href="https://www.linkedin.com/in/z-karimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
 
 # 📊 GitHub Stats:

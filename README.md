@@ -5,8 +5,8 @@ Hey there, this is Zaniar Karimi <a href="https://www.github.com/I-am-Programmin
 I am a Junior Web Developer and Software Engineer!
 -----------------------------
 *   🌍  I'm based in Kurdistan, Iran.
+*   *   🚀  Current B.Sc student in Software Engineering.
 *   🖥️  You can view my full portfolio at [Flyingtothe.top](https://cv.flyingtothe.top).
-*   🚀  Current B.Sc student in Software Engineering.
 *   🤝  You can reach out to me for any project collaborations/design requests via my social media accounts.
 -----------------------------
 ### Skills

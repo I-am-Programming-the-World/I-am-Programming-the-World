@@ -6,7 +6,7 @@ I am a Junior Web Developer and Software Engineer!
 -----------------------------
 *   🌍  I'm based in Kurdistan, Iran.
 *   🖥️  You can view my full portfolio at [Flyingtothe.top](https://cv.flyingtothe.top).
-*   🚀  Current B.Sc student in Software Engineering interning at [io-team](https://io-team.ir).
+*   🚀  Current B.Sc student in Software Engineering.
 *   🤝  You can reach out to me for any project collaborations/design requests via my social media accounts.
 -----------------------------
 ### Skills

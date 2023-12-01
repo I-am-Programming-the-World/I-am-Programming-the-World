@@ -81,4 +81,4 @@ I am a Junior Web Developer and Software Engineer!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=I-am-Programming-the-World&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 ### Support Me
-<a href="https://www.buymeacoffee.com/zaniarkarimi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/zaniarkarimi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

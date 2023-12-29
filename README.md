@@ -1,10 +1,13 @@
 Hey there, this is Zaniar Karimi <a href="https://www.github.com/I-am-Programming-the-World" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/I-am-Programming-the-World?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  [![](https://visitcount.itsvg.in/api?id=I-am-Programming-the-World&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+                  src="https://img.shields.io/github/followers/I-am-Programming-the-World?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![](https://visitcount.itsvg.in/api?id=I-am-Programming-the-World&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![Static Badge](https://img.shields.io/badge/Website%20Under%20Development-black?style=social&logo=semanticweb&logoColor=red&cacheSeconds=3600&link=flyingtothe.top)
 ===============================
 
 I am a Junior Web Developer and Software Engineer!
 -----------------------------
 *   🌍  I'm based in Kurdistan, Iran.
+*   🌱  I’m currently learning everything.
 *   🚀  Current B.Sc student in Software Engineering.
 *   🖥️  You can view my full portfolio at [Flyingtothe.top](https://cv.flyingtothe.top).
 *   🤝  You can reach out to me for any project collaborations/design requests via my social media accounts.

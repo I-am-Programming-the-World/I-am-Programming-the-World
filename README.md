@@ -8,8 +8,8 @@ I am a Junior Web Developer and Software Engineer!
 -----------------------------
 *   🌍  I'm based in Kurdistan, Iran.
 *   🚀  Current B.Sc student in Software Engineering.
-*   🌱  I’m currently learning anything that piques my curiosity.
-*   🖥️  You can view my full portfolio at [beyondlimits.online](https://beyondlimits.online).
+*   🌱  I’m currently learning everything and anything that piques my curiosity.
+*   🖥️  You can view my full portfolio at [beyondlimits.online](https://cv.beyondlimits.online).
 *   🤝  You can reach out to me for any project collaborations/design requests via my social media accounts.
 -----------------------------
 ### Skills

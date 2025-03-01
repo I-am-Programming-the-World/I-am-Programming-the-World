@@ -13,7 +13,7 @@ I am a Junior Web Developer and Software Engineer!
 *   🖥️  You can view my full portfolio at [beyondlimits.online](https://cv.beyondlimits.online) - Currently Down.
 *   🤝  You can reach out to me for any project collaborations/design requests via my social media accounts.
 -----------------------------
-### Skills
+### Skills (Learnt or currently learning)
 <p align="left">
     <div>
   <p>

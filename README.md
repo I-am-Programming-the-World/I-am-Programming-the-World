@@ -1,87 +1,101 @@
-Hey there, this is Zaniar Karimi <a href="https://www.github.com/I-am-Programming-the-World" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/I-am-Programming-the-World?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-[![](https://visitcount.itsvg.in/api?id=I-am-Programming-the-World&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
-![Static Badge](https://img.shields.io/badge/Website%20Soon-black?style=social&logo=semanticweb&logoColor=red&cacheSeconds=3600&link=flyingtothe.top)
-===============================
-
-I am a Junior Web Developer and Software Engineer!
------------------------------
-*   🌍  I'm based in Kurdistan, Iran.
-*   🚀  Obtained a BSc in Software Engineering.
-*   🚀  Current MSc student in Artificial Intelligence.
-*   🌱  I’m currently learning everything and anything that piques my curiosity - Polymath & Generalist.
-*   🖥️  You can view my full portfolio at [beyondlimits.online](https://cv.beyondlimits.online) - Currently Down.
-*   🤝  You can reach out to me for any project collaborations/design requests via my social media accounts.
------------------------------
-### Skills (Learnt or currently learning)
-<p align="left">
-    <div>
-  <p>
-      Web Development:
-    </p>
-   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="Javascript" /></a>
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="NextJs" /></a>
-   <a href="https://angularjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="VueJS" /></a>
-   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="NuxtJS" /></a>
-   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="Express" /></a>
-   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt="DotNet" /></a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-   <a href="https://php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="40" alt="PHP" /></a>
-   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-   <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width="40" height="40" alt="Socket-IO"/></a>
-</div>
-  <div>
-    <p>
-      Mobile Development:
-    </p>
-   <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-   <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-   <a href="https://developer.apple.com/documentation/swiftui/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="SwiftUI" /></a>
-   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-</div>
-<div>
-  </p>
-    UI/UX Design:
-  </p>
-   <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</div>
-<div>
-  <p>
-    Others:
-    </p>
-   <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-   <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
-   <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg" alt="Dart" width="40" height="40" /></a>
-   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
-   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/> </a>
-   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="40" height="40"/> </a>
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> </a>
-   <a href="https://docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>  
-   <a href="https://git-scm.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
-   <a href="https://trello.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/> </a>
-   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/> </a> 
+<!-- Gradient Header with Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=55&lines=✨+Welcome+to+my+Digital+Playground!+✨;🚀+Junior+Full-Stack+Dev+%7C+AI+Enthusiast;💻+Open-Source+Contributor+%7C+Tech+Polymath;🌌+Building+Tomorrow's+Solutions+Today" alt="Typing Header" />
 </div>
 
-### Contact me through:
-<p align="left">
-    <a href="https://www.instagram.com/I_am_Programming_the_World" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
-  <a href="https://beyondlimits.online" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="40" /></a>
-  <a href="https://www.linkedin.com/in/z-karimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
+<!-- Dynamic Stats Grid -->
+<div align="center" style="margin:20px 0">
+  
+  [![Followers](https://img.shields.io/badge/Followers-364-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/I-am-Programming-the-World?tab=followers)
+  [![Website](https://img.shields.io/badge/Website-OFFLINE-red?style=for-the-badge&logo=vercel&logoColor=white)](https://beyondlimits.online)
+  [![Repositories](https://img.shields.io/badge/Repositories-9-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/I-am-Programming-the-World?tab=repositories)
+  [![Visitors](https://img.shields.io/badge/Visitors-8-00BFFF?style=for-the-badge&logo=eyeem&logoColor=white)](https://github.com/I-am-Programming-the-World)
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=I-am-Programming-the-World&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=I-am-Programming-the-World&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Programming-the-World&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=I-am-Programming-the-World&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
-### Support Me
-<a href="https://www.buymeacoffee.com/zaniarkarimi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- GitHub Stats Columns -->
+## 📊 **Development Analytics**
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=I-am-Programming-the-World&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&line_height=24"/>
+      </td>
+      <td width="50%">
+        <img src="https://streak-stats.demolab.com?user=I-am-Programming-the-World&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+      </td>
+    </tr>
+  </table>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-am-Programming-the-World&theme=react-dark&hide_border=true&area=true&custom_title=Code%20Activity%20Map"/>
+</div>
+
+<!-- Tech Stack Cards -->
+## 🛠️ **Tech Arsenal**
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="33%">
+        <details open> 
+          <summary><b>🌐 Web Stack</b></summary>
+          <br/>
+          <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,ts,react,nextjs,nodejs,php,ruby,firebase&theme=dark"/>
+        </details>
+      </td>
+      <td width="33%">
+        <details open> 
+          <summary><b>📱 General Stack</b></summary>
+          <br/>
+          <img src="https://skillicons.dev/icons?i=c,java,wordpress,dart,flutter,python,kali,scikitlearn,tensorflow,opencv&theme=dark"/>
+        </details>
+      </td>
+      <td width="33%">
+        <details open> 
+          <summary><b>☁️ DevOps Stack</b></summary>
+          <br/>
+          <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git,github,githubactions,cloudflare&theme=dark"/>
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Fun Section Columns -->
+## 🎉 **Developer Culture**
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://readme-jokes.vercel.app/api?theme=merko&hideBorder=true&qColor=%2300FF00&aColor=%2300BFFF"/>
+      </td>
+      <td width="50%">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Contact & Support -->
+## 🌐 **Let's Connect**
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/z-karimi)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://beyondlimits.online)
+  
+  [![BuyMeACoffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/zaniarkarimi)
+  [![GitHub Sponsors](https://img.shields.io/badge/-Sponsor%20Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/I-am-Programming-the-World)
+</div>
+
+<!-- Additional Features -->
+## ⚡ **Coding Insights**
+<div align="center">
+  
+  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=I-am-Programming-the-World&theme=onedark&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/youruserid)
+</div>

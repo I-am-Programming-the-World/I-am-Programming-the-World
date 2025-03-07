@@ -6,10 +6,10 @@
 <!-- Dynamic Stats Grid -->
 <div align="center" style="margin:20px 0">
   
-  [![Followers](https://img.shields.io/badge/Followers-364-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/I-am-Programming-the-World?tab=followers)
+  [![Followers](https://img.shields.io/github/followers/I-am-Programming-the-World?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/I-am-Programming-the-World?tab=followers)
   [![Website](https://img.shields.io/badge/Website-OFFLINE-red?style=for-the-badge&logo=vercel&logoColor=white)](https://beyondlimits.online)
   [![Repositories](https://img.shields.io/badge/Repositories-9-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/I-am-Programming-the-World?tab=repositories)
-  [![Visitors](https://img.shields.io/badge/Visitors-8-00BFFF?style=for-the-badge&logo=eyeem&logoColor=white)](https://github.com/I-am-Programming-the-World)
+  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=I-am-Programming-the-World.I-am-Programming-the-World&style=for-the-badge&logo=github&logoColor=white)](https://github.com/I-am-Programming-the-World)
 </div>
 
 <!-- GitHub Stats Columns -->

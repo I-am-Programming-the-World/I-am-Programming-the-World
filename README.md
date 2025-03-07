@@ -63,10 +63,10 @@
   
   <table>
     <tr>
-      <td width="50%">
+      <td width="45%">
         <img src="https://readme-jokes.vercel.app/api?theme=merko&hideBorder=true&qColor=%2300FF00&aColor=%2300BFFF"/>
       </td>
-      <td width="50%">
+      <td width="55%">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
       </td>
     </tr>

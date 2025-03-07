@@ -18,11 +18,8 @@
   
   <table>
     <tr>
-      <td width="50%">
+      <td width="80%">
         <img src="https://github-readme-stats.vercel.app/api?username=I-am-Programming-the-World&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&line_height=24"/>
-      </td>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com?user=I-am-Programming-the-World&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
       </td>
     </tr>
   </table>  

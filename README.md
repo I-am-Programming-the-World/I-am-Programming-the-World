@@ -14,7 +14,6 @@
 </div>
 
 <!-- GitHub Stats and Language Stats Side by Side -->
-<!-- GitHub Stats Columns -->
 ## 📊 **Development Analytics**
 <div align="center">
   <table>

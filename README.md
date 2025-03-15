@@ -90,5 +90,6 @@
 <!-- Additional Features -->
 ## ⚡ **Coding Insights**
 <div align="center">
+  
   [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=I-am-Programming-the-World&theme=onedark&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </div>

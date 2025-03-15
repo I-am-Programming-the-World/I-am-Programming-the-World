@@ -8,7 +8,7 @@
   
   [![Website](https://img.shields.io/badge/Website-OFFLINE-red?style=for-the-badge&logo=vercel&logoColor=white)](https://beyondlimits.online)
   [![Followers](https://img.shields.io/github/followers/I-am-Programming-the-World?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/I-am-Programming-the-World?tab=followers)
-[![Repositories](https://img.shields.io/badge/Repositories-9-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/I-am-Programming-the-World?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-10-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/I-am-Programming-the-World?tab=repositories)
   <a href="https://github.com/I-am-Programming-the-World">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=I-am-Programming-the-World.I-am-Programming-the-World&style=for-the-badge&logo=github&logoColor=white" style="height:28px;" alt="Visitors" />
   </a>

@@ -1,8 +1,7 @@
 <!-- Gradient Header with Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=55&lines=✨+Welcome+to+my+Digital+Playground!+✨;🚀+Junior+Full-Stack+Dev+%7C+AI+Enthusiast;💻+Open-Source+Contributor+%7C+Tech+Polymath;🌌+Building+Tomorrow's+Solutions+Today" alt="Typing Header" />
+<div align="center" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=true&width=750&lines=Welcome+to+my+Digital+Playground!%2B%E2%9C%A8;%F0%9F%9A%80+Junior+Full-Stack+Dev+%26+AI+Enthusiast;%F0%9F%92%BB+Open-Source+Contributor+%26+Tech+Polymath;%F0%9F%8C%8C+Building+Tomorrow's+Solutions+Today" alt="Typing SVG" /></a>
 </div>
-
 <!-- Dynamic Stats Grid -->
 <div align="center" style="margin:20px 0">
   

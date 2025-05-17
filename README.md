@@ -5,7 +5,7 @@
 <!-- Dynamic Stats Grid -->
 <div align="center" style="margin:20px 0">
   
-  [![Website](https://img.shields.io/badge/Website-OFFLINE-red?style=for-the-badge&logo=vercel&logoColor=white)](https://beyondlimits.online)
+  [![Website](https://img.shields.io/badge/Website-ONLINE-green?style=for-the-badge&logo=vercel&logoColor=white)]([https://beyondlimits.online](https://i-am-programming-the-world.github.io/ZaniarKarimi_CV/))
   [![Followers](https://img.shields.io/github/followers/I-am-Programming-the-World?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/I-am-Programming-the-World?tab=followers)
 [![Repositories](https://img.shields.io/badge/Repositories-10-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/I-am-Programming-the-World?tab=repositories)
   <a href="https://github.com/I-am-Programming-the-World">

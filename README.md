@@ -4,7 +4,8 @@
 </div>
 <!-- Dynamic Stats Grid -->
 <div align="center" style="margin:20px 0">
-
+  
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://i-am-programming-the-world.github.io/ZaniarKarimi_CV/)
   [![Followers](https://img.shields.io/github/followers/I-am-Programming-the-World?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/I-am-Programming-the-World?tab=followers)
   [![Repositories](https://img.shields.io/badge/Repositories-10-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/I-am-Programming-the-World?tab=repositories)
   <a href="https://github.com/I-am-Programming-the-World">
@@ -79,7 +80,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/z-karimi)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaniar.karimi@uok.ac.ir)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://i-am-programming-the-world.github.io/ZaniarKarimi_CV/)
   
   [![BuyMeACoffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/zaniarkarimi)
   [![GitHub Sponsors](https://img.shields.io/badge/-Sponsor%20Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/I-am-Programming-the-World)

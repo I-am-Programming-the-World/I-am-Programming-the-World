@@ -79,7 +79,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/z-karimi)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaniar.karimi@uok.ac.ir)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white)]([https://beyondlimits.online](https://i-am-programming-the-world.github.io/ZaniarKarimi_CV/))
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://i-am-programming-the-world.github.io/ZaniarKarimi_CV/)
   
   [![BuyMeACoffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/zaniarkarimi)
   [![GitHub Sponsors](https://img.shields.io/badge/-Sponsor%20Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/I-am-Programming-the-World)
